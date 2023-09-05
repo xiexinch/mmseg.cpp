@@ -8,6 +8,6 @@ Inference [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) models 
 
 ### TODO
 
-- [] Implement a simple FCN model then extend to other high accuracy algorithm.
-- [] Add a quantization tool.
-- [] ...
+- \[\] Implement a simple FCN model then extend to other high accuracy algorithm.
+- \[\] Add a quantization tool.
+- \[\] ...
